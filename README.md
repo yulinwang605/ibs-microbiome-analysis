@@ -196,7 +196,8 @@ Example input files for each module are provided within the respective subdirect
 
 ## Data Availability
 
-Raw sequencing data are deposited at [database name, e.g., NCBI SRA] under accession number **[PRJNA/ERP accession]**.  
+Raw sequencing data are deposited at National Microbiology Data Center (NMDC) under project ID NMDC10019823.
+ 
 Processed abundance tables and metadata used directly by the scripts in this repository are available as Supplementary Data files in the associated publication.
 
 ---
@@ -218,4 +219,4 @@ This code is released under the [MIT License](LICENSE).
 ## Contact
 
 For questions regarding the code, please open a GitHub Issue or contact the corresponding author:  
-**[Corresponding Author Name]** — [email@institution.edu]
+**[Corresponding Author Name]** — [wangyulin@sdu.edu.cn]
