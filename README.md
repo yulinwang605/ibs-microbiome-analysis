@@ -2,9 +2,9 @@
 
 This repository contains all analysis scripts and pipelines associated with the publication:
 
-> **[Paper Title]**  
-> [Author list]  
-> *[Journal Name]*, [Year], DOI: [DOI]
+> Chang-Yan-Ning Tablet is Safe and Efficacious for Diarrhea-Predominant Irritable Bowel Syndrome and restores gut microbiome symbiosis 
+#> [Author list]  
+#> *[Journal Name]*, [Year], DOI: [DOI]
 
 ---
 
