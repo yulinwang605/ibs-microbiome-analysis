@@ -1,0 +1,545 @@
+Sample	Group	NSR-score	Name-treated	Stage
+01-002-V2	Treated	6.29	01-002-	V2
+01-002-V4	Treated	3.71	01-002-	V4
+01-002-V6	Treated	1.71	01-002-	V6
+01-002-V7	Treated	1	01-002-	V7
+01-005-V2	Treated	5.57	01-005-	V2
+01-005-V4	Treated	3.29	01-005-	V4
+01-005-V6	Treated	2.86	01-005-	V6
+01-005-V7	Treated	1.29	01-005-	V7
+01-007-V2	Treated	4.71	01-007-	V2
+01-007-V4	Treated	2.29	01-007-	V4
+01-007-V6	Treated	1.57	01-007-	V6
+01-007-V7	Treated	2.14	01-007-	V7
+02-001-V2	Treated	3	02-001-	V2
+02-001-V4	Treated	2.43	02-001-	V4
+02-001-V6	Treated	0.14	02-001-	V6
+02-001-V7	Treated	0.29	02-001-	V7
+02-002-V2	Treated	3.86	02-002-	V2
+02-002-V4	Treated	1.29	02-002-	V4
+02-002-V6	Treated	0.29	02-002-	V6
+02-002-V7	Treated	0	02-002-	V7
+02-022-V2	Treated	3.57	02-022-	V2
+02-022-V4	Treated	0.43	02-022-	V4
+02-022-V6	Treated	0.14	02-022-	V6
+02-022-V7	Treated	0	02-022-	V7
+02-023-V2	Treated	3.71	02-023-	V2
+02-023-V4	Treated	0	02-023-	V4
+02-023-V6	Treated	0	02-023-	V6
+02-023-V7	Treated	0	02-023-	V7
+02-026-V2	Treated	5.43	02-026-	V2
+02-026-V4	Treated	0.29	02-026-	V4
+02-026-V6	Treated	0	02-026-	V6
+02-026-V7	Treated	0.86	02-026-	V7
+02-028-V2	Treated	4.14	02-028-	V2
+02-028-V4	Treated	0	02-028-	V4
+02-028-V6	Treated	0	02-028-	V6
+02-028-V7	Treated	0.14	02-028-	V7
+02-029-V2	Treated	3.86	02-029-	V2
+02-029-V4	Treated	0.86	02-029-	V4
+02-029-V6	Treated	0	02-029-	V6
+02-029-V7	Treated	0.14	02-029-	V7
+02-030-V2	Treated	3.43	02-030-	V2
+02-030-V4	Treated	0.71	02-030-	V4
+02-030-V6	Treated	0.43	02-030-	V6
+02-030-V7	Treated	0	02-030-	V7
+04-008-V2	Treated	3	04-008-	V2
+04-008-V4	Treated	3	04-008-	V4
+04-008-V6	Treated	0.71	04-008-	V6
+04-008-V7	Treated	1	04-008-	V7
+04-009-V2	Treated	3.14	04-009-	V2
+04-009-V4	Treated	2	04-009-	V4
+04-009-V6	Treated	0.14	04-009-	V6
+04-009-V7	Treated	0	04-009-	V7
+05-006-V2	Treated	4.2	05-006-	V2
+05-006-V4	Treated	4	05-006-	V4
+05-006-V6	Treated	1.29	05-006-	V6
+05-006-V7	Treated	1.14	05-006-	V7
+06-005-V2	Treated	3.43	06-005-	V2
+06-005-V4	Treated	0.86	06-005-	V4
+06-005-V6	Treated	2.14	06-005-	V6
+06-005-V7	Treated	0	06-005-	V7
+07-001-V2	Treated	3.29	07-001-	V2
+07-001-V4	Treated	2	07-001-	V4
+07-001-V6	Treated	2.14	07-001-	V6
+07-001-V7	Treated	0.86	07-001-	V7
+07-016-V2	Treated	3.71	07-016-	V2
+07-016-V4	Treated	2.86	07-016-	V4
+07-016-V6	Treated	2.14	07-016-	V6
+07-016-V7	Treated	2.43	07-016-	V7
+07-018-V2	Treated	3.86	07-018-	V2
+07-018-V4	Treated	0.57	07-018-	V4
+07-018-V6	Treated	1.43	07-018-	V6
+07-018-V7	Treated	2.14	07-018-	V7
+07-035-V2	Treated	3.29	07-035-	V2
+07-035-V4	Treated	3.29	07-035-	V4
+07-035-V6	Treated	2.14	07-035-	V6
+07-035-V7	Treated	0.14	07-035-	V7
+08-001-V2	Treated	3.71	08-001-	V2
+08-001-V4	Treated	1	08-001-	V4
+08-001-V6	Treated	1	08-001-	V6
+08-001-V7	Treated	1	08-001-	V7
+08-005-V2	Treated	3.29	08-005-	V2
+08-005-V4	Treated	2	08-005-	V4
+08-005-V6	Treated	2	08-005-	V6
+08-005-V7	Treated	1.43	08-005-	V7
+08-006-V2	Treated	3	08-006-	V2
+08-006-V4	Treated	2.43	08-006-	V4
+08-006-V6	Treated	0.29	08-006-	V6
+08-006-V7	Treated	0.43	08-006-	V7
+08-007-V2	Treated	4.57	08-007-	V2
+08-007-V4	Treated	1.14	08-007-	V4
+08-007-V6	Treated	2	08-007-	V6
+08-007-V7	Treated	0.57	08-007-	V7
+08-009-V2	Treated	3.29	08-009-	V2
+08-009-V4	Treated	4	08-009-	V4
+08-009-V6	Treated	3.43	08-009-	V6
+08-009-V7	Treated	2.57	08-009-	V7
+08-013-V2	Treated	3.86	08-013-	V2
+08-013-V4	Treated	4.57	08-013-	V4
+08-013-V6	Treated	4	08-013-	V6
+08-013-V7	Treated	2.86	08-013-	V7
+08-021-V2	Treated	5	08-021-	V2
+08-021-V4	Treated	2.71	08-021-	V4
+08-021-V6	Treated	0.71	08-021-	V6
+08-021-V7	Treated	0.57	08-021-	V7
+08-024-V2	Treated	5.14	08-024-	V2
+08-024-V4	Treated	0.71	08-024-	V4
+08-024-V6	Treated	0.14	08-024-	V6
+08-024-V7	Treated	0	08-024-	V7
+08-025-V2	Treated	3.29	08-025-	V2
+08-025-V4	Treated	1.14	08-025-	V4
+08-025-V6	Treated	0.29	08-025-	V6
+08-025-V7	Treated	0.57	08-025-	V7
+08-026-V2	Treated	3.29	08-026-	V2
+08-026-V4	Treated	2.14	08-026-	V4
+08-026-V6	Treated	0.43	08-026-	V6
+08-026-V7	Treated	0	08-026-	V7
+08-034-V2	Treated	3.57	08-034-	V2
+08-034-V4	Treated	3.71	08-034-	V4
+08-034-V6	Treated	4.86	08-034-	V6
+08-034-V7	Treated	4.43	08-034-	V7
+08-039-V2	Treated	3	08-039-	V2
+08-039-V4	Treated	2.29	08-039-	V4
+08-039-V6	Treated	2.71	08-039-	V6
+08-039-V7	Treated	2.57	08-039-	V7
+08-040-V2	Treated	3.29	08-040-	V2
+08-040-V4	Treated	0.43	08-040-	V4
+08-040-V6	Treated	0.57	08-040-	V6
+08-040-V7	Treated	0.43	08-040-	V7
+09-003-V2	Treated	3	09-003-	V2
+09-003-V4	Treated	3	09-003-	V4
+09-003-V6	Treated	2	09-003-	V6
+09-003-V7	Treated	1	09-003-	V7
+09-004-V2	Treated	4.43	09-004-	V2
+09-004-V4	Treated	3.14	09-004-	V4
+09-004-V6	Treated	2.57	09-004-	V6
+09-004-V7	Treated	2.14	09-004-	V7
+09-010-V2	Treated	4	09-010-	V2
+09-010-V4	Treated	0.43	09-010-	V4
+09-010-V6	Treated	2	09-010-	V6
+09-010-V7	Treated	1.29	09-010-	V7
+09-011-V2	Treated	7.57	09-011-	V2
+09-011-V4	Treated	0.14	09-011-	V4
+09-011-V6	Treated	0.43	09-011-	V6
+09-011-V7	Treated	0.14	09-011-	V7
+09-013-V2	Treated	4.57	09-013-	V2
+09-013-V4	Treated	4.57	09-013-	V4
+09-013-V6	Treated	2.14	09-013-	V6
+09-013-V7	Treated	2	09-013-	V7
+09-018-V2	Treated	3.29	09-018-	V2
+09-018-V4	Treated	2.14	09-018-	V4
+09-018-V6	Treated	1.86	09-018-	V6
+09-018-V7	Treated	1.57	09-018-	V7
+09-020-V2	Treated	3.86	09-020-	V2
+09-020-V4	Treated	3.71	09-020-	V4
+09-020-V6	Treated	2.29	09-020-	V6
+09-020-V7	Treated	2.29	09-020-	V7
+09-022-V2	Treated	3	09-022-	V2
+09-022-V4	Treated	1.86	09-022-	V4
+09-022-V6	Treated	1.43	09-022-	V6
+09-022-V7	Treated	1.29	09-022-	V7
+10-002-V2	Treated	3.43	10-002-	V2
+10-002-V4	Treated	4.29	10-002-	V4
+10-002-V6	Treated	4	10-002-	V6
+10-002-V7	Treated	6.14	10-002-	V7
+10-005-V2	Treated	3.29	10-005-	V2
+10-005-V4	Treated	1	10-005-	V4
+10-005-V6	Treated	0.86	10-005-	V6
+10-005-V7	Treated	1.14	10-005-	V7
+10-007-V2	Treated	5.29	10-007-	V2
+10-007-V4	Treated	2.86	10-007-	V4
+10-007-V6	Treated	3.57	10-007-	V6
+10-007-V7	Treated	0.86	10-007-	V7
+11-007-V2	Treated	4.14	11-007-	V2
+11-007-V4	Treated	4.14	11-007-	V4
+11-007-V6	Treated	4.57	11-007-	V6
+11-007-V7	Treated	2.85	11-007-	V7
+11-010-V2	Treated	3.29	11-010-	V2
+11-010-V4	Treated	2.71	11-010-	V4
+11-010-V6	Treated	3.43	11-010-	V6
+11-010-V7	Treated	3.71	11-010-	V7
+11-013-V2	Treated	4.14	11-013-	V2
+11-013-V4	Treated	1.57	11-013-	V4
+11-013-V6	Treated	2.14	11-013-	V6
+11-013-V7	Treated	1.43	11-013-	V7
+11-017-V2	Treated	5	11-017-	V2
+11-017-V4	Treated	1.71	11-017-	V4
+11-017-V6	Treated	2.14	11-017-	V6
+11-017-V7	Treated	2	11-017-	V7
+11-019-V2	Treated	3.71	11-019-	V2
+11-019-V4	Treated	2.14	11-019-	V4
+11-019-V6	Treated	0.57	11-019-	V6
+11-019-V7	Treated	0.43	11-019-	V7
+12-002-V2	Treated	4	12-002-	V2
+12-002-V4	Treated	2.43	12-002-	V4
+12-002-V6	Treated	3.43	12-002-	V6
+12-002-V7	Treated	2.43	12-002-	V7
+12-004-V2	Treated	3.86	12-004-	V2
+12-004-V4	Treated	2	12-004-	V4
+12-004-V6	Treated	2.86	12-004-	V6
+12-004-V7	Treated	1.57	12-004-	V7
+12-016-V2	Treated	3	12-016-	V2
+12-016-V4	Treated	0.86	12-016-	V4
+12-016-V6	Treated	0.71	12-016-	V6
+12-016-V7	Treated	0.29	12-016-	V7
+13-006-V2	Treated	4.86	13-006-	V2
+13-006-V4	Treated	1.71	13-006-	V4
+13-006-V6	Treated	0.43	13-006-	V6
+13-006-V7	Treated	0	13-006-	V7
+13-008-V2	Treated	3.43	13-008-	V2
+13-008-V4	Treated	0.86	13-008-	V4
+13-008-V6	Treated	2.57	13-008-	V6
+13-008-V7	Treated	2.43	13-008-	V7
+13-012-V2	Treated	3.43	13-012-	V2
+13-012-V4	Treated	2.14	13-012-	V4
+13-012-V6	Treated	1.57	13-012-	V6
+13-012-V7	Treated	1.14	13-012-	V7
+13-016-V2	Treated	3.14	13-016-	V2
+13-016-V4	Treated	1.71	13-016-	V4
+13-016-V6	Treated	2	13-016-	V6
+13-016-V7	Treated	0	13-016-	V7
+13-017-V2	Treated	3.86	13-017-	V2
+13-017-V4	Treated	3	13-017-	V4
+13-017-V6	Treated	2.29	13-017-	V6
+13-017-V7	Treated	1.14	13-017-	V7
+13-018-V2	Treated	3.29	13-018-	V2
+13-018-V4	Treated	2.43	13-018-	V4
+13-018-V6	Treated	0	13-018-	V6
+13-018-V7	Treated	0	13-018-	V7
+13-019-V2	Treated	3	13-019-	V2
+13-019-V4	Treated	2.43	13-019-	V4
+13-019-V6	Treated	0	13-019-	V6
+13-019-V7	Treated	0	13-019-	V7
+13-025-V2	Treated	4	13-025-	V2
+13-025-V4	Treated	1.57	13-025-	V4
+13-025-V6	Treated	1.57	13-025-	V6
+13-025-V7	Treated	1.57	13-025-	V7
+13-026-V2	Treated	5.86	13-026-	V2
+13-026-V4	Treated	3.14	13-026-	V4
+13-026-V6	Treated	2.71	13-026-	V6
+13-026-V7	Treated	2.14	13-026-	V7
+13-027-V2	Treated	4.43	13-027-	V2
+13-027-V4	Treated	2.86	13-027-	V4
+13-027-V6	Treated	2.86	13-027-	V6
+13-027-V7	Treated	2.14	13-027-	V7
+13-029-V2	Treated	6.14	13-029-	V2
+13-029-V4	Treated	6	13-029-	V4
+13-029-V6	Treated	2	13-029-	V6
+13-029-V7	Treated	2.71	13-029-	V7
+13-031-V2	Treated	3.71	13-031-	V2
+13-031-V4	Treated	0.71	13-031-	V4
+13-031-V6	Treated	0.29	13-031-	V6
+13-031-V7	Treated	0.29	13-031-	V7
+13-034-V2	Treated	3.57	13-034-	V2
+13-034-V4	Treated	0	13-034-	V4
+13-034-V6	Treated	0	13-034-	V6
+13-034-V7	Treated	0	13-034-	V7
+01-006-V2	Control	4		V2
+02-013-V2	Control	3.14		V2
+02-021-V2	Control	3.29		V2
+02-025-V2	Control	3.71		V2
+02-031-V2	Control	4.57		V2
+02-033-V2	Control	4.14		V2
+02-038-V2	Control	3.71		V2
+04-001-V2	Control	3.86		V2
+04-003-V2	Control	4.43		V2
+04-006-V2	Control	3.29		V2
+04-007-V2	Control	3		V2
+04-010-V2	Control	3.29		V2
+06-002-V2	Control	3.14		V2
+06-004-V2	Control	5.43		V2
+06-010-V2	Control	3.29		V2
+07-008-V2	Control	3		V2
+07-012-V2	Control	3.86		V2
+07-014-V2	Control	4.71		V2
+07-015-V2	Control	3.43		V2
+07-019-V2	Control	3.57		V2
+07-025-V2	Control	3.14		V2
+07-027-V2	Control	3		V2
+07-030-V2	Control	3.29		V2
+07-031-V2	Control	3.86		V2
+07-036-V2	Control	3.71		V2
+08-002-V2	Control	3.29		V2
+08-003-V2	Control	3.14		V2
+08-004-V2	Control	3.57		V2
+08-008-V2	Control	4.86		V2
+08-011-V2	Control	3.57		V2
+08-014-V2	Control	6.71		V2
+08-019-V2	Control	3		V2
+08-029-V2	Control	4.29		V2
+08-030-V2	Control	3.43		V2
+08-033-V2	Control	3.57		V2
+08-035-V2	Control	4.57		V2
+08-037-V2	Control	3		V2
+09-001-V2	Control	3.14		V2
+09-005-V2	Control	3.14		V2
+09-006-V2	Control	6.29		V2
+09-008-V2	Control	3.29		V2
+09-009-V2	Control	3.86		V2
+09-012-V2	Control	4.57		V2
+09-014-V2	Control	4.57		V2
+09-016-V2	Control	3.14		V2
+09-017-V2	Control	3.29		V2
+09-019-V2	Control	3.29		V2
+09-023-V2	Control	3.71		V2
+09-024-V2	Control	3		V2
+10-003-V2	Control	3.29		V2
+10-006-V2	Control	3.29		V2
+10-009-V2	Control	3.29		V2
+10-013-V2	Control	5.86		V2
+11-009-V2	Control	4.14		V2
+11-011-V2	Control	3.57		V2
+11-012-V2	Control	3.14		V2
+12-001-V2	Control	3.43		V2
+12-005-V2	Control	4.57		V2
+12-011-V2	Control	3.14		V2
+12-015-V2	Control	4.14		V2
+13-001-V2	Control	7		V2
+13-002-V2	Control	5		V2
+13-004-V2	Control	3.71		V2
+13-005-V2	Control	3.43		V2
+13-011-V2	Control	4.43		V2
+13-013-V2	Control	7		V2
+13-014-V2	Control	3.29		V2
+13-022-V2	Control	3.43		V2
+13-028-V2	Control	6		V2
+13-030-V2	Control	4.57		V2
+13-032-V2	Control	3.14		V2
+13-033-V2	Control	3.57		V2
+01-006-V4	Control	4		V4
+02-013-V4	Control	2.43		V4
+02-021-V4	Control	1.43		V4
+02-025-V4	Control	4.71		V4
+02-031-V4	Control	3.43		V4
+02-033-V4	Control	3		V4
+02-038-V4	Control	3.29		V4
+04-001-V4	Control	3.43		V4
+04-003-V4	Control	4.14		V4
+04-006-V4	Control	1.86		V4
+04-007-V4	Control	2.71		V4
+04-010-V4	Control	3.14		V4
+06-002-V4	Control	2.71		V4
+06-004-V4	Control	2.57		V4
+06-010-V4	Control	3.71		V4
+07-008-V4	Control	1.71		V4
+07-012-V4	Control	0		V4
+07-014-V4	Control	2.43		V4
+07-015-V4	Control	2.29		V4
+07-019-V4	Control	3		V4
+07-025-V4	Control	1.14		V4
+07-027-V4	Control	1.57		V4
+07-030-V4	Control	3		V4
+07-031-V4	Control	3.71		V4
+07-036-V4	Control	2.43		V4
+08-002-V4	Control	2.14		V4
+08-003-V4	Control	2.57		V4
+08-004-V4	Control	1.57		V4
+08-008-V4	Control	2.71		V4
+08-011-V4	Control	2.57		V4
+08-014-V4	Control	3.71		V4
+08-019-V4	Control	1.29		V4
+08-029-V4	Control	4.43		V4
+08-030-V4	Control	2		V4
+08-033-V4	Control	3.14		V4
+08-035-V4	Control	3.43		V4
+08-037-V4	Control	3.14		V4
+09-001-V4	Control	1.14		V4
+09-005-V4	Control	2.71		V4
+09-006-V4	Control	2.29		V4
+09-008-V4	Control	4		V4
+09-009-V4	Control	0.43		V4
+09-012-V4	Control	3		V4
+09-014-V4	Control	4.14		V4
+09-016-V4	Control	4.71		V4
+09-017-V4	Control	4.57		V4
+09-019-V4	Control	3.29		V4
+09-023-V4	Control	2.14		V4
+09-024-V4	Control	2.14		V4
+10-003-V4	Control	3.14		V4
+10-006-V4	Control	2		V4
+10-009-V4	Control	2.43		V4
+10-013-V4	Control	5.86		V4
+11-009-V4	Control	3.43		V4
+11-011-V4	Control	3.43		V4
+11-012-V4	Control	2.71		V4
+12-001-V4	Control	1.86		V4
+12-005-V4	Control	2.57		V4
+12-011-V4	Control	2.57		V4
+12-015-V4	Control	3		V4
+13-001-V4	Control	4.29		V4
+13-002-V4	Control	0.86		V4
+13-004-V4	Control	1		V4
+13-005-V4	Control	2.29		V4
+13-011-V4	Control	4.14		V4
+13-013-V4	Control	0.86		V4
+13-014-V4	Control	1.57		V4
+13-022-V4	Control	3.71		V4
+13-028-V4	Control	1.71		V4
+13-030-V4	Control	3.43		V4
+13-032-V4	Control	4.29		V4
+13-033-V4	Control	0.86		V4
+01-006-V6	Control	3.86		V6
+02-013-V6	Control	3		V6
+02-021-V6	Control	4		V6
+02-025-V6	Control	3.71		V6
+02-031-V6	Control	1		V6
+02-033-V6	Control	1.29		V6
+02-038-V6	Control	3.43		V6
+04-001-V6	Control	2.57		V6
+04-003-V6	Control	1.29		V6
+04-006-V6	Control	2.14		V6
+04-007-V6	Control	3.43		V6
+04-010-V6	Control	2		V6
+06-002-V6	Control	2		V6
+06-004-V6	Control	0.14		V6
+06-010-V6	Control	3		V6
+07-008-V6	Control	2.14		V6
+07-012-V6	Control	1.71		V6
+07-014-V6	Control	1.29		V6
+07-015-V6	Control	2.29		V6
+07-019-V6	Control	1.43		V6
+07-025-V6	Control	1		V6
+07-027-V6	Control	1.29		V6
+07-030-V6	Control	2.86		V6
+07-031-V6	Control	2.71		V6
+07-036-V6	Control	3		V6
+08-002-V6	Control	2		V6
+08-003-V6	Control	1.29		V6
+08-004-V6	Control	2		V6
+08-008-V6	Control	1.14		V6
+08-011-V6	Control	2.43		V6
+08-014-V6	Control	4.86		V6
+08-019-V6	Control	1.14		V6
+08-029-V6	Control	4.86		V6
+08-030-V6	Control	2.71		V6
+08-033-V6	Control	3.71		V6
+08-035-V6	Control	4.86		V6
+08-037-V6	Control	3.57		V6
+09-001-V6	Control	1.29		V6
+09-005-V6	Control	0.86		V6
+09-006-V6	Control	1.86		V6
+09-008-V6	Control	0.86		V6
+09-009-V6	Control	2.57		V6
+09-012-V6	Control	3.71		V6
+09-014-V6	Control	3.86		V6
+09-016-V6	Control	4.43		V6
+09-017-V6	Control	4.71		V6
+09-019-V6	Control	3.71		V6
+09-023-V6	Control	1.71		V6
+09-024-V6	Control	2		V6
+10-003-V6	Control	2.29		V6
+10-006-V6	Control	2.14		V6
+10-009-V6	Control	1.57		V6
+10-013-V6	Control	6.86		V6
+11-009-V6	Control	2		V6
+11-011-V6	Control	0		V6
+11-012-V6	Control	0.29		V6
+12-001-V6	Control	1		V6
+12-005-V6	Control	2.57		V6
+12-011-V6	Control	3.57		V6
+12-015-V6	Control	1		V6
+13-001-V6	Control	4.29		V6
+13-002-V6	Control	2.71		V6
+13-004-V6	Control	0		V6
+13-005-V6	Control	3.29		V6
+13-011-V6	Control	2		V6
+13-013-V6	Control	3.86		V6
+13-014-V6	Control	2.43		V6
+13-022-V6	Control	3.14		V6
+13-028-V6	Control	3.71		V6
+13-030-V6	Control	3.43		V6
+13-032-V6	Control	2.71		V6
+13-033-V6	Control	0.86		V6
+01-006-V7	Control	4.14		V7
+02-013-V7	Control	3.57		V7
+02-021-V7	Control	5		V7
+02-025-V7	Control	3.43		V7
+02-031-V7	Control	1		V7
+02-033-V7	Control	0		V7
+02-038-V7	Control	2.71		V7
+04-001-V7	Control	2.57		V7
+04-003-V7	Control	0.14		V7
+04-006-V7	Control	2.71		V7
+04-007-V7	Control	3.57		V7
+04-010-V7	Control	1		V7
+06-002-V7	Control	1.57		V7
+06-004-V7	Control	0.29		V7
+06-010-V7	Control	3.14		V7
+07-008-V7	Control	1.71		V7
+07-012-V7	Control	1.71		V7
+07-014-V7	Control	0.29		V7
+07-015-V7	Control	2.43		V7
+07-019-V7	Control	2.14		V7
+07-025-V7	Control	1.57		V7
+07-027-V7	Control	0.14		V7
+07-030-V7	Control	3		V7
+07-031-V7	Control	3		V7
+07-036-V7	Control	3.43		V7
+08-002-V7	Control	0.29		V7
+08-003-V7	Control	0.29		V7
+08-004-V7	Control	1.57		V7
+08-008-V7	Control	3		V7
+08-011-V7	Control	2.14		V7
+08-014-V7	Control	3.86		V7
+08-019-V7	Control	0.86		V7
+08-029-V7	Control	4.43		V7
+08-030-V7	Control	3		V7
+08-033-V7	Control	3		V7
+08-035-V7	Control	3.86		V7
+08-037-V7	Control	2.57		V7
+09-001-V7	Control	1		V7
+09-005-V7	Control	0.71		V7
+09-006-V7	Control	2.57		V7
+09-008-V7	Control	0.86		V7
+09-009-V7	Control	1		V7
+09-012-V7	Control	3.71		V7
+09-014-V7	Control	4		V7
+09-016-V7	Control	4.71		V7
+09-017-V7	Control	4.14		V7
+09-019-V7	Control	3.71		V7
+09-023-V7	Control	2.14		V7
+09-024-V7	Control	1.57		V7
+10-003-V7	Control	2.29		V7
+10-006-V7	Control	2.43		V7
+10-009-V7	Control	0.71		V7
+10-013-V7	Control	6.57		V7
+11-009-V7	Control	0		V7
+11-011-V7	Control	0		V7
+11-012-V7	Control	2.14		V7
+12-001-V7	Control	0.29		V7
+12-005-V7	Control	2		V7
+12-011-V7	Control	1.86		V7
+12-015-V7	Control	0.14		V7
+13-001-V7	Control	4.29		V7
+13-002-V7	Control	1.29		V7
+13-004-V7	Control	0		V7
+13-005-V7	Control	3.14		V7
+13-011-V7	Control	3.14		V7
+13-013-V7	Control	2.57		V7
+13-014-V7	Control	2.57		V7
+13-022-V7	Control	2		V7
+13-028-V7	Control	1.42		V7
+13-030-V7	Control	3.57		V7
+13-032-V7	Control	3.29		V7
+13-033-V7	Control	0.14		V7
