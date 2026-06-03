@@ -3,8 +3,7 @@
 This repository contains all analysis scripts and pipelines associated with the publication:
 
 > Chang-Yan-Ning Tablet is Safe and Efficacious for Diarrhea-Predominant Irritable Bowel Syndrome and restores gut microbiome symbiosis 
-#> [Author list]  
-#> *[Journal Name]*, [Year], DOI: [DOI]
+
 
 ---
 
